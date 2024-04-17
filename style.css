@@ -1,0 +1,84 @@
+h1{
+    color: rgb(15, 125, 126);
+    padding-top: 20px;
+    margin-right: 4%;
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+h3{
+    color: rgb(15, 125, 126);
+    text-align: center;
+    margin-right: 4%;
+    font-size: 1.2rem;
+}
+
+h2{
+    color: rgb(15, 125, 126);
+    text-align: center;
+    margin-right: 4%;
+    font-size: 1.4rem;
+}
+
+div{
+    border-radius: 8px;
+
+}
+
+a{
+    color: rgb(255, 117, 117);
+    text-decoration-line:Edge 79;
+}   
+
+body{
+    background-color: rgb(118, 181, 160);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 40px;
+    min-height: 100vh;
+}
+
+p{
+    color: rgb(118, 181, 160);
+    margin-left: 1em;
+    margin-right: 2em;
+}
+
+ul{
+    color: rgb(15, 125, 126);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+footer{
+    margin-left: 4%;
+    margin-bottom: 4%;
+}
+
+aside {
+    width: 90%;
+    padding: 5px;
+    margin-left: 4%;
+    margin-bottom: 5%;
+    font-style: italic;
+    border-radius: 10px;
+    background-color: rgb(243, 241, 199);
+    box-shadow: -3px -3px 3px rgb(223, 221, 189);
+}
+
+.summary{
+    text-align: right;
+}
+.main{
+    line-height: 1.5em;
+}
+.page-wrapper{
+    background-color: rgb(255, 253, 209);
+    margin-top: 30px;
+    max-width: 100%;
+    font-family: sans-serif;
+    padding-bottom: 1px;
+}
+abbr, a{
+    font-variant: small-caps;
+}
